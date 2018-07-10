@@ -1,0 +1,23 @@
+{
+  "name": "ttk-ppt",
+  "version": "1.0.0",
+  "description": "[演示demo](https://thethreekingdoms.github.io/ttk-ppt/#slide-1)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thethreekingdoms/ttk-ppt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thethreekingdoms/ttk-ppt/issues"
+  },
+  "homepage": "https://github.com/thethreekingdoms/ttk-ppt#readme",
+  "directories": {
+    "example": "example"
+  }
+}
