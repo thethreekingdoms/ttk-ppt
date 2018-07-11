@@ -17,13 +17,6 @@ body {
 img {
     vertical-align: middle;
 }
-a {
-    color:#2DA845;
-}
-
-a:hover {
-    color: #36c;
-}
 
 .handle {
     position: absolute;
@@ -337,6 +330,13 @@ table td{
     font-size: 32px;
     color: #000;
 }
+.bg0{
+    background-color:#ffffff;
+    color: #000000;
+    padding: 10px;
+
+}
+
 
 .bg1{
     background-color: #237804;
